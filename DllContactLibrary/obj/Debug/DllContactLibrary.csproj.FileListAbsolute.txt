@@ -1,0 +1,1 @@
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\DllContactLibrary\obj\Debug\DllContactLibrary.csprojResolveAssemblyReference.cache

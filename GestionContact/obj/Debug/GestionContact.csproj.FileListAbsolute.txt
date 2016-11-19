@@ -1,0 +1,18 @@
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\bin\Debug\GestionContact.exe.config
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\bin\Debug\GestionContact.exe
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\bin\Debug\GestionContact.pdb
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\obj\Debug\GestionContact.csprojResolveAssemblyReference.cache
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\obj\Debug\GestionContact.exe
+c:\users\richer\documents\visual studio 2015\Projects\GestionContactSolution\GestionContact\obj\Debug\GestionContact.pdb
+G:\GestionContactSolution\GestionContact\bin\Debug\GestionContact.exe.config
+G:\GestionContactSolution\GestionContact\obj\Debug\GestionContact.exe
+G:\GestionContactSolution\GestionContact\obj\Debug\GestionContact.pdb
+G:\GestionContactSolution - Copie\GestionContact\bin\Debug\GestionContact.exe.config
+G:\GestionContactSolution - Copie\GestionContact\obj\Debug\GestionContact.exe
+G:\GestionContactSolution - Copie\GestionContact\obj\Debug\GestionContact.pdb
+G:\GestionContactSolution - Copie\GestionContact\bin\Debug\GestionContact.exe
+G:\GestionContactSolution - Copie\GestionContact\bin\Debug\GestionContact.pdb
+G:\GestionContactSolution - Copie\GestionContact\obj\Debug\GestionContact.csprojResolveAssemblyReference.cache
+C:\Git\GestionContactConsole\GestionContact\bin\Debug\GestionContact.exe.config
+C:\Git\GestionContactConsole\GestionContact\obj\Debug\GestionContact.exe
+C:\Git\GestionContactConsole\GestionContact\obj\Debug\GestionContact.pdb
