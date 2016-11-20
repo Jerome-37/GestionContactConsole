@@ -25,6 +25,6 @@ namespace DllContactLibrary
           this.TypeContact = t;
 
         }
-
+        
     }
 }
