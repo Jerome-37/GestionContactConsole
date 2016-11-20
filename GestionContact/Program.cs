@@ -11,13 +11,16 @@ namespace GestionContact
         static void Main(string[] args)
         {
             Console.WriteLine(
-                "****************************************" + Environment.NewLine + 
-                "* - 1 : Premier menu                   *" + Environment.NewLine +
-                "* - 2 : deuxieme menu                  *" + Environment.NewLine +
-                "* - 3 : troisieme menu                 *" + Environment.NewLine + 
-                "* - 4 : quatrieme menu                 *" + Environment.NewLine +
-                "* - 5 : cinquieme menu                 *" + Environment.NewLine +
-                "****************************************"); 
+                "********************************************************" + Environment.NewLine +
+                "*          Application de gestion de Contacts          *" + Environment.NewLine +
+                "*                    --------------                    *" + Environment.NewLine +
+                "*           selectionner une tache de 1 à 4            *" + Environment.NewLine +
+                "********************************************************" + Environment.NewLine +
+                "* - 1 : Lister l'ensemble des Contacts                 *" + Environment.NewLine +
+                "* - 2 : Ajouter / Supprimer / Modifier un contact      *" + Environment.NewLine +
+                "* - 3 : Rechercher un Contact                          *" + Environment.NewLine + 
+                "* - 4 : Trier les Conctacts                            *" + Environment.NewLine +
+                "********************************************************"); 
 
             string saisie = Console.ReadLine();
             switch (saisie) 
@@ -33,12 +36,11 @@ namespace GestionContact
                 case "3":
                     Console.WriteLine("cas 3");
                     break;
+
                 case "4":
                     Console.WriteLine("cas 4");
                     break;
-                case "5":
-                    Console.WriteLine("cas 5");
-                    break;
+
                 default:
                     Console.WriteLine("cas defaut");
                     break;

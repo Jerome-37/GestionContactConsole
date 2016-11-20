@@ -16,3 +16,9 @@ G:\GestionContactSolution - Copie\GestionContact\obj\Debug\GestionContact.csproj
 C:\Git\GestionContactConsole\GestionContact\bin\Debug\GestionContact.exe.config
 C:\Git\GestionContactConsole\GestionContact\obj\Debug\GestionContact.exe
 C:\Git\GestionContactConsole\GestionContact\obj\Debug\GestionContact.pdb
+C:\Git\GestionContact\bin\Debug\GestionContact.exe.config
+C:\Git\GestionContact\obj\Debug\GestionContact.exe
+C:\Git\GestionContact\obj\Debug\GestionContact.pdb
+C:\Git\GestionContact\bin\Debug\GestionContact.exe
+C:\Git\GestionContact\bin\Debug\GestionContact.pdb
+C:\Git\GestionContact\obj\Debug\GestionContact.csprojResolveAssemblyReference.cache
